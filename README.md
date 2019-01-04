@@ -6,8 +6,13 @@ eCharts 官网链接：```http://echarts.baidu.com```
  ![image](https://github.com/kathy775/eCharts-Demo/blob/master/others/demo1.gif)
 
 实例
-电网数据
+电网数据可视化
+
  ![image](https://github.com/kathy775/eCharts-Demo/blob/master/others/demo4.gif)
- 资源数据
+ 
+ 
+ 资源数据可视化
+ 链接``` http://web.itssp.org/website/index.html ``` (首页最下面)
+ 
  ![image](https://github.com/kathy775/eCharts-Demo/blob/master/others/demo2.gif)
   ![image](https://github.com/kathy775/eCharts-Demo/blob/master/others/demo3.gif)
